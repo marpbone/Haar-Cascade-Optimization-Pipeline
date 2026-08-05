@@ -1,6 +1,6 @@
 # Improving Haar Cascade Detection with Classical Image Refinement
 
-**CPS843 — Introduction to Computer Vision · Final Project · Toronto Metropolitan University**
+
 
 Can you make a 2001-era object detector work better without retraining it? This project says yes, and measures how much.
 
